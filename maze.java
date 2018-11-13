@@ -1,11 +1,9 @@
-/*
-OOP assignment 3
- */
+
 package maze_solve;
 
 /**
  *
- * @author aditya veer parmar ajay raghavan venkatesh prabhu
+ * @author Aditya Veer Parmar
  *
  */
 import java.awt.Color;
