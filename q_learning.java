@@ -1,11 +1,9 @@
-/*
- OOP assignment 3
- */
-package maze_solve;
+
+packge maze_solve;
 
 /**
  *
- * @author Aditya veer Parmar Ajay Raghavan Venkatesh Prabhu
+ * @author Aditya veer Parmar
  */
 import java.util.Arrays;
 import java.util.Random;
